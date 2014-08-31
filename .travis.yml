@@ -1,4 +1,4 @@
 language: node_js
 node_js:
   - "0.10"
-script: "npm i -g npm@1.4.10 && lineman spec-ci"
+script: "lineman spec-ci"
